@@ -1,0 +1,1224 @@
+13:20:11 T E ANON(1) testSerialize Enter
+13:20:11 T E ANON(1) testSerialize Exit elapsed 0.052
+13:20:11 T E ANON(1) Print 2 Enter
+13:20:11 T 01 ANON(1) Print 2 trace 1
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.002
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.002
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.002
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.002
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.002
+13:20:11 T E ANON(1) Print 2 Exit elapsed 0.016
+13:20:11 T E ANON(1) Print 2 Enter
+13:20:11 T 01 ANON(1) Print 2 trace 1
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 1 Enter
+13:20:11 T E ANON(1) Test1 Enter
+13:20:11 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:20:11 T E ANON(1) Print 1 Exit elapsed 0.001
+13:20:11 T E ANON(1) Print 2 Exit elapsed 0.010
+13:20:11 T Q Id1(2) Test1 Enter
+13:20:11 T Q Id3(3) Test1 Enter
+13:20:11 T Q Id2(5) Test1 Enter
+13:20:11 T Q Id2(4) Test1 Enter
+13:20:11 T E Id2(5) Test2-1 Enter
+13:20:11 T E Id2(4) Test2-1 Enter
+13:20:11 T E Id2(5) Test2-2 Enter
+13:20:11 T E Id2(4) Test2-2 Enter
+13:20:11 T E Id2(5) Test2-3 Enter
+13:20:11 T E Id2(4) Test2-3 Enter
+13:20:11 T E Id2(5) Test2-4 Enter
+13:20:11 T E Id2(4) Test2-4 Enter
+13:20:11 T E Id2(5) Test2-5 Enter
+13:20:11 T E Id2(4) Test2-5 Enter
+13:20:11 T E Id2(5) Test2-6 Enter
+13:20:11 T E Id2(4) Test2-6 Enter
+13:20:11 T E Id1(2) Test2-1 Enter
+13:20:11 T E Id1(2) Test2-2 Enter
+13:20:11 T E Id1(2) Test2-3 Enter
+13:20:11 T E Id1(2) Test2-4 Enter
+13:20:11 T E Id1(2) Test2-5 Enter
+13:20:11 T E Id1(2) Test2-6 Enter
+13:20:11 T E Id3(3) Test2-1 Enter
+13:20:11 T E Id3(3) Test2-2 Enter
+13:20:11 T E Id3(3) Test2-3 Enter
+13:20:11 T E Id3(3) Test2-4 Enter
+13:20:11 T E Id3(3) Test2-5 Enter
+13:20:11 T E Id3(3) Test2-6 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.030
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.030
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id3(3) Test3 Enter
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.034
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.033
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.030
+13:20:11 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.060
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.032
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id3(3) Test3 Enter
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.033
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-1 Enter
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-2 Enter
+13:20:11 T E Id2(4) Test2-1 Enter
+13:20:11 T E Id2(5) Test2-3 Enter
+13:20:11 T E Id2(5) Test2-4 Enter
+13:20:11 T E Id2(4) Test2-2 Enter
+13:20:11 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:11 T E Id2(4) Test2-3 Enter
+13:20:11 T E Id2(4) Test2-4 Enter
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-4 Exit elapsed 0.054
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(4) Test2-4 Exit elapsed 0.053
+13:20:11 T E Id3(3) Test3 Enter
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-3 Exit elapsed 0.109
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.032
+13:20:11 T E Id2(4) Test2-3 Exit elapsed 0.110
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-2 Exit elapsed 0.163
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(4) Test2-2 Exit elapsed 0.167
+13:20:11 T E Id2(5) Test3 Enter
+13:20:11 T E Id2(4) Test3 Enter
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:11 T E Id2(5) Test3 Exit elapsed 0.032
+13:20:11 T E Id2(5) Test2-1 Exit elapsed 0.217
+13:20:11 M Id2 Test2-1 Test1 R time 0.550 memory free 116809184 total 126877696
+13:20:11 M Id2 Test2-1 Test1 A time 0.553 memory free 116809184 total 126877696
+13:20:11 T E Id2(5) Test2-6 Exit-forced elapsed 0.534
+13:20:11 T E Id2(5) Test2-5 Exit-forced elapsed 0.536
+13:20:11 T E Id2(5) Test2-4 Exit-forced elapsed 0.537
+13:20:11 T E Id2(5) Test2-3 Exit-forced elapsed 0.538
+13:20:11 T E Id2(5) Test2-2 Exit-forced elapsed 0.539
+13:20:11 T E Id3(3) Test3 Enter
+13:20:11 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:11 T E Id2(5) Test2-1 Exit-forced elapsed 0.541
+13:20:11 T E Id2(4) Test2-1 Exit elapsed 0.222
+13:20:11 T Q Id2(5) Test1 Exit elapsed 0.558
+13:20:11 M Id2 Test2-1 Test1 R time 0.557 memory free 116809184 total 126877696
+13:20:11 M Id2 Test2-1 Test1 A time 0.560 memory free 116809184 total 126877696
+13:20:11 T E Id2(4) Test2-6 Exit-forced elapsed 0.542
+13:20:11 T E Id2(4) Test2-5 Exit-forced elapsed 0.544
+13:20:11 T E Id2(4) Test2-4 Exit-forced elapsed 0.545
+13:20:11 T E Id2(4) Test2-3 Exit-forced elapsed 0.547
+13:20:11 T E Id2(4) Test2-2 Exit-forced elapsed 0.547
+13:20:11 T E Id2(4) Test2-1 Exit-forced elapsed 0.549
+13:20:11 T Q Id2(4) Test1 Exit elapsed 0.566
+13:20:11 T E Id1(2) Test3 Enter
+13:20:11 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:11 T E Id1(2) Test2-1 Enter
+13:20:11 T E Id1(2) Test2-2 Enter
+13:20:11 T E Id1(2) Test2-3 Enter
+13:20:11 T E Id1(2) Test2-4 Enter
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:12 T E Id1(2) Test2-4 Exit elapsed 0.103
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:12 T E Id1(2) Test2-3 Exit elapsed 0.208
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.062
+13:20:12 T E Id1(2) Test2-2 Exit elapsed 0.311
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:12 T E Id3(3) Test2-1 Enter
+13:20:12 T E Id3(3) Test2-2 Enter
+13:20:12 T E Id3(3) Test2-3 Enter
+13:20:12 T E Id3(3) Test2-4 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.060
+13:20:12 T E Id1(2) Test2-1 Exit elapsed 0.414
+13:20:12 M Id1 Test2-1 Test1 R time 1.051 memory free 116138096 total 126877696
+13:20:12 M Id1 Test2-1 Test1 A time 1.054 memory free 116138096 total 126877696
+13:20:12 T E Id1(2) Test2-6 Exit-forced elapsed 1.030
+13:20:12 T E Id1(2) Test2-5 Exit-forced elapsed 1.030
+13:20:12 T E Id1(2) Test2-4 Exit-forced elapsed 1.031
+13:20:12 T E Id1(2) Test2-3 Exit-forced elapsed 1.033
+13:20:12 T E Id1(2) Test2-2 Exit-forced elapsed 1.033
+13:20:12 T E Id1(2) Test2-1 Exit-forced elapsed 1.034
+13:20:12 T Q Id1(2) Test1 Exit elapsed 1.058
+13:20:12 T Q Id2(5) Test1 Enter
+13:20:12 T Q Id2(4) Test1 Enter
+13:20:12 T E Id2(5) Test2-1 Enter
+13:20:12 T E Id2(5) Test2-2 Enter
+13:20:12 T E Id2(5) Test2-3 Enter
+13:20:12 T E Id2(5) Test2-4 Enter
+13:20:12 T E Id2(4) Test2-1 Enter
+13:20:12 T E Id2(5) Test2-5 Enter
+13:20:12 T E Id2(4) Test2-2 Enter
+13:20:12 T E Id2(5) Test2-6 Enter
+13:20:12 T E Id2(4) Test2-3 Enter
+13:20:12 T E Id2(4) Test2-4 Enter
+13:20:12 T E Id2(4) Test2-5 Enter
+13:20:12 T E Id2(4) Test2-6 Enter
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.090
+13:20:12 T E Id3(3) Test2-4 Exit elapsed 0.152
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.033
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.032
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T Q Id1(2) Test1 Enter
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test2-1 Enter
+13:20:12 T E Id1(2) Test2-2 Enter
+13:20:12 T E Id1(2) Test2-3 Enter
+13:20:12 T E Id1(2) Test2-4 Enter
+13:20:12 T E Id1(2) Test2-5 Enter
+13:20:12 T E Id1(2) Test2-6 Enter
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.030
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.030
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.032
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:12 T E Id3(3) Test2-3 Exit elapsed 0.306
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.030
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.030
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.060
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.030
+13:20:12 T E Id2(5) Test2-1 Enter
+13:20:12 T E Id2(4) Test2-1 Enter
+13:20:12 T E Id2(5) Test2-2 Enter
+13:20:12 T E Id2(4) Test2-2 Enter
+13:20:12 T E Id2(5) Test2-3 Enter
+13:20:12 T E Id2(4) Test2-3 Enter
+13:20:12 T E Id2(5) Test2-4 Enter
+13:20:12 T E Id2(4) Test2-4 Enter
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:12 T E Id3(3) Test2-2 Exit elapsed 0.460
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.032
+13:20:12 T E Id2(4) Test2-4 Exit elapsed 0.053
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.033
+13:20:12 T E Id2(5) Test2-4 Exit elapsed 0.055
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id3(3) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.062
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(4) Test2-3 Exit elapsed 0.107
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(5) Test2-3 Exit elapsed 0.110
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id1(2) Test3 Enter
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(4) Test2-2 Exit elapsed 0.161
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.031
+13:20:12 T E Id2(5) Test2-2 Exit elapsed 0.167
+13:20:12 T E Id3(3) Test3 Exit elapsed 0.090
+13:20:12 T E Id3(3) Test2-1 Exit elapsed 0.617
+13:20:12 M Id3 Test2-1 Test1 R time 1.570 memory free 113453720 total 126877696
+13:20:12 M Id3 Test2-1 Test1 A time 1.573 memory free 113453720 total 126877696
+13:20:12 T E Id3(3) Test2-6 Exit-forced elapsed 1.538
+13:20:12 T E Id3(3) Test2-5 Exit-forced elapsed 1.539
+13:20:12 T E Id3(3) Test2-4 Exit-forced elapsed 1.540
+13:20:12 T E Id3(3) Test2-3 Exit-forced elapsed 1.541
+13:20:12 T E Id3(3) Test2-2 Exit-forced elapsed 1.542
+13:20:12 T E Id3(3) Test2-1 Exit-forced elapsed 1.543
+13:20:12 T Q Id3(3) Test1 Exit elapsed 1.576
+13:20:12 T E Id2(4) Test3 Enter
+13:20:12 T E Id2(5) Test3 Enter
+13:20:12 T E Id1(2) Test3 Exit elapsed 0.060
+13:20:12 T E Id2(4) Test3 Exit elapsed 0.032
+13:20:12 T E Id2(4) Test2-1 Exit elapsed 0.216
+13:20:12 M Id2 Test2-1 Test1 R time 0.546 memory free 113453720 total 126877696
+13:20:12 M Id2 Test2-1 Test1 A time 1.614 memory free 113453720 total 126877696
+13:20:12 T E Id2(4) Test2-6 Exit-forced elapsed 0.531
+13:20:12 T E Id2(4) Test2-5 Exit-forced elapsed 0.531
+13:20:12 T E Id2(4) Test2-4 Exit-forced elapsed 0.533
+13:20:12 T E Id2(4) Test2-3 Exit-forced elapsed 0.534
+13:20:12 T E Id2(5) Test3 Exit elapsed 0.033
+13:20:12 T E Id2(4) Test2-2 Exit-forced elapsed 0.537
+13:20:12 T E Id2(5) Test2-1 Exit elapsed 0.221
+13:20:12 T E Id2(4) Test2-1 Exit-forced elapsed 0.539
+13:20:12 M Id2 Test2-1 Test1 R time 0.558 memory free 113453720 total 126877696
+13:20:12 T Q Id2(4) Test1 Exit elapsed 0.552
+13:20:12 M Id2 Test2-1 Test1 A time 1.619 memory free 113453720 total 126877696
+13:20:12 T E Id2(5) Test2-6 Exit-forced elapsed 0.539
+13:20:12 T E Id2(5) Test2-5 Exit-forced elapsed 0.542
+13:20:12 T E Id2(5) Test2-4 Exit-forced elapsed 0.543
+13:20:12 T E Id2(5) Test2-3 Exit-forced elapsed 0.545
+13:20:12 T E Id2(5) Test2-2 Exit-forced elapsed 0.547
+13:20:12 T E Id2(5) Test2-1 Exit-forced elapsed 0.550
+13:20:12 T Q Id2(5) Test1 Exit elapsed 0.564
+13:20:12 T E Id1(2) Test3 Enter
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.062
+13:20:13 T E Id1(2) Test3 Enter
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:13 T E Id1(2) Test2-1 Enter
+13:20:13 T E Id1(2) Test2-2 Enter
+13:20:13 T E Id1(2) Test2-3 Enter
+13:20:13 T E Id1(2) Test2-4 Enter
+13:20:13 T Q Id3(3) Test1 Enter
+13:20:13 T E Id1(2) Test3 Enter
+13:20:13 T E Id3(3) Test2-1 Enter
+13:20:13 T E Id3(3) Test2-2 Enter
+13:20:13 T E Id3(3) Test2-3 Enter
+13:20:13 T E Id3(3) Test2-4 Enter
+13:20:13 T E Id3(3) Test2-5 Enter
+13:20:13 T E Id3(3) Test2-6 Enter
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.062
+13:20:13 T E Id1(2) Test2-4 Exit elapsed 0.104
+13:20:13 T E Id3(3) Test3 Enter
+13:20:13 T E Id1(2) Test3 Enter
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:13 T E Id1(2) Test2-3 Exit elapsed 0.208
+13:20:13 T E Id3(3) Test3 Exit elapsed 0.090
+13:20:13 T E Id1(2) Test3 Enter
+13:20:13 T E Id3(3) Test3 Enter
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:13 T E Id1(2) Test2-2 Exit elapsed 0.311
+13:20:13 T E Id1(2) Test3 Enter
+13:20:13 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:13 T E Id1(2) Test3 Exit elapsed 0.061
+13:20:13 T E Id1(2) Test2-1 Exit elapsed 0.415
+13:20:13 M Id1 Test2-1 Test1 R time 1.052 memory free 112782632 total 126877696
+13:20:13 M Id1 Test2-1 Test1 A time 2.213 memory free 112782632 total 126877696
+13:20:13 T E Id1(2) Test2-6 Exit-forced elapsed 1.032
+13:20:13 T E Id1(2) Test2-5 Exit-forced elapsed 1.032
+13:20:13 T E Id1(2) Test2-4 Exit-forced elapsed 1.034
+13:20:13 T E Id1(2) Test2-3 Exit-forced elapsed 1.034
+13:20:13 T E Id1(2) Test2-2 Exit-forced elapsed 1.035
+13:20:13 T E Id1(2) Test2-1 Exit-forced elapsed 1.036
+13:20:13 T Q Id1(2) Test1 Exit elapsed 1.057
+13:20:13 T E Id3(3) Test3 Enter
+13:20:13 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:13 T E Id3(3) Test3 Enter
+13:20:13 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:13 T E Id3(3) Test3 Enter
+13:20:13 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:14 T E Id3(3) Test3 Enter
+13:20:14 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:14 T E Id3(3) Test2-1 Enter
+13:20:14 T E Id3(3) Test2-2 Enter
+13:20:14 T E Id3(3) Test2-3 Enter
+13:20:14 T E Id3(3) Test2-4 Enter
+13:20:14 T E Id3(3) Test3 Enter
+13:20:14 T E Id3(3) Test3 Exit elapsed 0.092
+13:20:14 T E Id3(3) Test2-4 Exit elapsed 0.153
+13:20:14 T E Id3(3) Test3 Enter
+13:20:14 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:14 T E Id3(3) Test2-3 Exit elapsed 0.305
+13:20:14 T E Id3(3) Test3 Enter
+13:20:14 T E Id3(3) Test3 Exit elapsed 0.094
+13:20:14 T E Id3(3) Test2-2 Exit elapsed 0.461
+13:20:14 T E Id3(3) Test3 Enter
+13:20:14 T E Id3(3) Test3 Exit elapsed 0.091
+13:20:14 T E Id3(3) Test2-1 Exit elapsed 0.616
+13:20:14 M Id3 Test2-1 Test1 R time 1.568 memory free 111440080 total 126877696
+13:20:14 M Id3 Test2-1 Test1 A time 3.399 memory free 111440080 total 126877696
+13:20:14 T E Id3(3) Test2-6 Exit-forced elapsed 1.533
+13:20:14 T E Id3(3) Test2-5 Exit-forced elapsed 1.534
+13:20:14 T E Id3(3) Test2-4 Exit-forced elapsed 1.536
+13:20:14 T E Id3(3) Test2-3 Exit-forced elapsed 1.538
+13:20:14 T E Id3(3) Test2-2 Exit-forced elapsed 1.539
+13:20:14 T E Id3(3) Test2-1 Exit-forced elapsed 1.542
+13:20:14 T Q Id3(3) Test1 Exit elapsed 1.575
+13:21:36 T E ANON(1) testSerialize Enter
+13:21:36 T E ANON(1) testSerialize Exit elapsed 0.047
+13:21:36 T E ANON(1) Print 2 Enter
+13:21:36 T 01 ANON(1) Print 2 trace 1
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.002
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 2 Exit elapsed 0.014
+13:21:36 T E ANON(1) Print 2 Enter
+13:21:36 T 01 ANON(1) Print 2 trace 1
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 1 Enter
+13:21:36 T E ANON(1) Test1 Enter
+13:21:36 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:21:36 T E ANON(1) Print 1 Exit elapsed 0.001
+13:21:36 T E ANON(1) Print 2 Exit elapsed 0.010
+13:21:36 T Q Id2(4) Test1 Enter
+13:21:36 T Q Id1(2) Test1 Enter
+13:21:36 T Q Id2(3) Test1 Enter
+13:21:36 T Q Id3(5) Test1 Enter
+13:21:36 T E Id2(4) Test2-1 Enter
+13:21:36 T E Id2(4) Test2-2 Enter
+13:21:36 T E Id2(3) Test2-1 Enter
+13:21:36 T E Id2(4) Test2-3 Enter
+13:21:36 T E Id2(3) Test2-2 Enter
+13:21:36 T E Id2(4) Test2-4 Enter
+13:21:36 T E Id2(3) Test2-3 Enter
+13:21:36 T E Id2(4) Test2-5 Enter
+13:21:36 T E Id2(3) Test2-4 Enter
+13:21:36 T E Id2(4) Test2-6 Enter
+13:21:36 T E Id2(3) Test2-5 Enter
+13:21:36 T E Id2(3) Test2-6 Enter
+13:21:36 T E Id1(2) Test2-1 Enter
+13:21:36 T E Id1(2) Test2-2 Enter
+13:21:36 T E Id1(2) Test2-3 Enter
+13:21:36 T E Id1(2) Test2-4 Enter
+13:21:36 T E Id1(2) Test2-5 Enter
+13:21:36 T E Id1(2) Test2-6 Enter
+13:21:36 T E Id3(5) Test2-1 Enter
+13:21:36 T E Id3(5) Test2-2 Enter
+13:21:36 T E Id3(5) Test2-3 Enter
+13:21:36 T E Id3(5) Test2-4 Enter
+13:21:36 T E Id3(5) Test2-5 Enter
+13:21:36 T E Id3(5) Test2-6 Enter
+13:21:36 T E Id2(4) Test3 Enter
+13:21:36 T E Id2(3) Test3 Enter
+13:21:36 T E Id1(2) Test3 Enter
+13:21:36 T E Id2(4) Test3 Exit elapsed 0.030
+13:21:36 T E Id2(3) Test3 Exit elapsed 0.030
+13:21:36 T E Id2(3) Test3 Enter
+13:21:36 T E Id2(4) Test3 Enter
+13:21:36 T E Id3(5) Test3 Enter
+13:21:36 T E Id2(3) Test3 Exit elapsed 0.030
+13:21:36 T E Id2(4) Test3 Exit elapsed 0.033
+13:21:36 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:36 T E Id2(3) Test3 Enter
+13:21:36 T E Id2(4) Test3 Enter
+13:21:36 T E Id1(2) Test3 Enter
+13:21:36 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:36 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:36 T E Id3(5) Test3 Exit elapsed 0.092
+13:21:36 T E Id2(3) Test3 Enter
+13:21:36 T E Id2(4) Test3 Enter
+13:21:36 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:36 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:36 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.030
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.030
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(3) Test2-1 Enter
+13:21:37 T E Id2(3) Test2-2 Enter
+13:21:37 T E Id2(3) Test2-3 Enter
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(3) Test2-4 Enter
+13:21:37 T E Id2(4) Test2-1 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.063
+13:21:37 T E Id2(4) Test2-2 Enter
+13:21:37 T E Id2(4) Test2-3 Enter
+13:21:37 T E Id2(4) Test2-4 Enter
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(3) Test2-4 Exit elapsed 0.054
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(4) Test2-4 Exit elapsed 0.055
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(3) Test2-3 Exit elapsed 0.110
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(4) Test2-3 Exit elapsed 0.109
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:37 T E Id2(3) Test2-2 Exit elapsed 0.163
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:37 T E Id2(4) Test2-2 Exit elapsed 0.163
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:37 T E Id2(3) Test2-1 Exit elapsed 0.217
+13:21:37 M Id2 Test2-1 Test1 R time 0.544 memory free 116809704 total 126877696
+13:21:37 M Id2 Test2-1 Test1 A time 0.545 memory free 116809704 total 126877696
+13:21:37 T E Id2(3) Test2-6 Exit-forced elapsed 0.529
+13:21:37 T E Id2(3) Test2-5 Exit-forced elapsed 0.530
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.030
+13:21:37 T E Id2(3) Test2-4 Exit-forced elapsed 0.531
+13:21:37 T E Id2(4) Test2-1 Exit elapsed 0.216
+13:21:37 T E Id2(3) Test2-3 Exit-forced elapsed 0.532
+13:21:37 M Id2 Test2-1 Test1 R time 0.546 memory free 116809704 total 126877696
+13:21:37 T E Id2(3) Test2-2 Exit-forced elapsed 0.533
+13:21:37 M Id2 Test2-1 Test1 A time 0.548 memory free 116809704 total 126877696
+13:21:37 T E Id2(3) Test2-1 Exit-forced elapsed 0.534
+13:21:37 T E Id2(4) Test2-6 Exit-forced elapsed 0.532
+13:21:37 T Q Id2(3) Test1 Exit elapsed 0.549
+13:21:37 T E Id2(4) Test2-5 Exit-forced elapsed 0.533
+13:21:37 T E Id2(4) Test2-4 Exit-forced elapsed 0.534
+13:21:37 T E Id2(4) Test2-3 Exit-forced elapsed 0.535
+13:21:37 T E Id2(4) Test2-2 Exit-forced elapsed 0.536
+13:21:37 T E Id2(4) Test2-1 Exit-forced elapsed 0.536
+13:21:37 T Q Id2(4) Test1 Exit elapsed 0.551
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:37 T E Id1(2) Test2-1 Enter
+13:21:37 T E Id1(2) Test2-2 Enter
+13:21:37 T E Id1(2) Test2-3 Enter
+13:21:37 T E Id1(2) Test2-4 Enter
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:37 T E Id1(2) Test2-4 Exit elapsed 0.104
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:37 T E Id1(2) Test2-3 Exit elapsed 0.207
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:37 T E Id1(2) Test2-2 Exit elapsed 0.310
+13:21:37 T E Id3(5) Test2-1 Enter
+13:21:37 T E Id3(5) Test2-2 Enter
+13:21:37 T E Id3(5) Test2-3 Enter
+13:21:37 T E Id3(5) Test2-4 Enter
+13:21:37 T E Id1(2) Test3 Enter
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T Q Id2(3) Test1 Enter
+13:21:37 T Q Id2(4) Test1 Enter
+13:21:37 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:37 T E Id1(2) Test2-1 Exit elapsed 0.415
+13:21:37 M Id1 Test2-1 Test1 R time 1.055 memory free 116138616 total 126877696
+13:21:37 M Id1 Test2-1 Test1 A time 1.057 memory free 116138616 total 126877696
+13:21:37 T E Id1(2) Test2-6 Exit-forced elapsed 1.034
+13:21:37 T E Id1(2) Test2-5 Exit-forced elapsed 1.034
+13:21:37 T E Id1(2) Test2-4 Exit-forced elapsed 1.035
+13:21:37 T E Id1(2) Test2-3 Exit-forced elapsed 1.036
+13:21:37 T E Id1(2) Test2-2 Exit-forced elapsed 1.037
+13:21:37 T E Id1(2) Test2-1 Exit-forced elapsed 1.039
+13:21:37 T Q Id1(2) Test1 Exit elapsed 1.062
+13:21:37 T E Id2(3) Test2-1 Enter
+13:21:37 T E Id2(4) Test2-1 Enter
+13:21:37 T E Id2(3) Test2-2 Enter
+13:21:37 T E Id2(3) Test2-3 Enter
+13:21:37 T E Id2(4) Test2-2 Enter
+13:21:37 T E Id2(3) Test2-4 Enter
+13:21:37 T E Id2(4) Test2-3 Enter
+13:21:37 T E Id2(3) Test2-5 Enter
+13:21:37 T E Id2(4) Test2-4 Enter
+13:21:37 T E Id2(3) Test2-6 Enter
+13:21:37 T E Id2(4) Test2-5 Enter
+13:21:37 T E Id2(4) Test2-6 Enter
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:37 T E Id3(5) Test2-4 Exit elapsed 0.154
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T Q Id1(2) Test1 Enter
+13:21:37 T E Id3(5) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.030
+13:21:37 T E Id2(4) Test3 Exit elapsed 0.030
+13:21:37 T E Id1(2) Test2-1 Enter
+13:21:37 T E Id1(2) Test2-2 Enter
+13:21:37 T E Id1(2) Test2-3 Enter
+13:21:37 T E Id1(2) Test2-4 Enter
+13:21:37 T E Id1(2) Test2-5 Enter
+13:21:37 T E Id1(2) Test2-6 Enter
+13:21:37 T E Id2(3) Test3 Enter
+13:21:37 T E Id2(4) Test3 Enter
+13:21:37 T E Id2(3) Test3 Exit elapsed 0.033
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id3(5) Test3 Exit elapsed 0.092
+13:21:38 T E Id3(5) Test2-3 Exit elapsed 0.309
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id3(5) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.032
+13:21:38 T E Id2(3) Test2-1 Enter
+13:21:38 T E Id2(3) Test2-2 Enter
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(3) Test2-3 Enter
+13:21:38 T E Id2(4) Test2-1 Enter
+13:21:38 T E Id2(3) Test2-4 Enter
+13:21:38 T E Id2(4) Test2-2 Enter
+13:21:38 T E Id2(4) Test2-3 Enter
+13:21:38 T E Id2(4) Test2-4 Enter
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:38 T E Id3(5) Test2-2 Exit elapsed 0.462
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(3) Test2-4 Exit elapsed 0.054
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(4) Test2-4 Exit elapsed 0.053
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id3(5) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(3) Test2-3 Exit elapsed 0.107
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.032
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id2(4) Test2-3 Exit elapsed 0.115
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id2(3) Test2-2 Exit elapsed 0.162
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(4) Test2-2 Exit elapsed 0.169
+13:21:38 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:38 T E Id3(5) Test2-1 Exit elapsed 0.616
+13:21:38 M Id3 Test2-1 Test1 R time 1.567 memory free 113454176 total 126877696
+13:21:38 M Id3 Test2-1 Test1 A time 1.568 memory free 113454176 total 126877696
+13:21:38 T E Id3(5) Test2-6 Exit-forced elapsed 1.535
+13:21:38 T E Id3(5) Test2-5 Exit-forced elapsed 1.535
+13:21:38 T E Id3(5) Test2-4 Exit-forced elapsed 1.535
+13:21:38 T E Id3(5) Test2-3 Exit-forced elapsed 1.537
+13:21:38 T E Id2(3) Test3 Enter
+13:21:38 T E Id3(5) Test2-2 Exit-forced elapsed 1.537
+13:21:38 T E Id3(5) Test2-1 Exit-forced elapsed 1.537
+13:21:38 T Q Id3(5) Test1 Exit elapsed 1.571
+13:21:38 T E Id2(4) Test3 Enter
+13:21:38 T E Id2(3) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(3) Test2-1 Exit elapsed 0.215
+13:21:38 M Id2 Test2-1 Test1 R time 0.552 memory free 113454176 total 126877696
+13:21:38 M Id2 Test2-1 Test1 A time 1.603 memory free 113454176 total 126877696
+13:21:38 T E Id2(3) Test2-6 Exit-forced elapsed 0.531
+13:21:38 T E Id2(3) Test2-5 Exit-forced elapsed 0.532
+13:21:38 T E Id2(3) Test2-4 Exit-forced elapsed 0.533
+13:21:38 T E Id2(3) Test2-3 Exit-forced elapsed 0.536
+13:21:38 T E Id2(3) Test2-2 Exit-forced elapsed 0.539
+13:21:38 T E Id2(3) Test2-1 Exit-forced elapsed 0.540
+13:21:38 T Q Id2(3) Test1 Exit elapsed 0.556
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id2(4) Test3 Exit elapsed 0.031
+13:21:38 T E Id2(4) Test2-1 Exit elapsed 0.223
+13:21:38 M Id2 Test2-1 Test1 R time 0.562 memory free 112783088 total 126877696
+13:21:38 M Id2 Test2-1 Test1 A time 1.615 memory free 112783088 total 126877696
+13:21:38 T E Id2(4) Test2-6 Exit-forced elapsed 0.542
+13:21:38 T E Id2(4) Test2-5 Exit-forced elapsed 0.543
+13:21:38 T E Id2(4) Test2-4 Exit-forced elapsed 0.545
+13:21:38 T E Id2(4) Test2-3 Exit-forced elapsed 0.547
+13:21:38 T E Id2(4) Test2-2 Exit-forced elapsed 0.549
+13:21:38 T E Id2(4) Test2-1 Exit-forced elapsed 0.552
+13:21:38 T Q Id2(4) Test1 Exit elapsed 0.567
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:38 T E Id1(2) Test2-1 Enter
+13:21:38 T E Id1(2) Test2-2 Enter
+13:21:38 T E Id1(2) Test2-3 Enter
+13:21:38 T E Id1(2) Test2-4 Enter
+13:21:38 T Q Id3(5) Test1 Enter
+13:21:38 T E Id3(5) Test2-1 Enter
+13:21:38 T E Id3(5) Test2-2 Enter
+13:21:38 T E Id3(5) Test2-3 Enter
+13:21:38 T E Id3(5) Test2-4 Enter
+13:21:38 T E Id3(5) Test2-5 Enter
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id3(5) Test2-6 Enter
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id3(5) Test3 Enter
+13:21:38 T E Id1(2) Test2-4 Exit elapsed 0.104
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id1(2) Test2-3 Exit elapsed 0.208
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id3(5) Test3 Enter
+13:21:38 T E Id1(2) Test3 Exit elapsed 0.061
+13:21:38 T E Id1(2) Test2-2 Exit elapsed 0.312
+13:21:38 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:38 T E Id1(2) Test3 Enter
+13:21:38 T E Id3(5) Test3 Enter
+13:21:39 T E Id1(2) Test3 Exit elapsed 0.062
+13:21:39 T E Id1(2) Test2-1 Exit elapsed 0.417
+13:21:39 M Id1 Test2-1 Test1 R time 1.072 memory free 112112000 total 126877696
+13:21:39 M Id1 Test2-1 Test1 A time 2.236 memory free 112112000 total 126877696
+13:21:39 T E Id1(2) Test2-6 Exit-forced elapsed 1.043
+13:21:39 T E Id1(2) Test2-5 Exit-forced elapsed 1.045
+13:21:39 T E Id1(2) Test2-4 Exit-forced elapsed 1.047
+13:21:39 T E Id1(2) Test2-3 Exit-forced elapsed 1.049
+13:21:39 T E Id1(2) Test2-2 Exit-forced elapsed 1.050
+13:21:39 T E Id1(2) Test2-1 Exit-forced elapsed 1.052
+13:21:39 T Q Id1(2) Test1 Exit elapsed 1.079
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:39 T E Id3(5) Test3 Enter
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.092
+13:21:39 T E Id3(5) Test3 Enter
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:39 T E Id3(5) Test3 Enter
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:39 T E Id3(5) Test2-1 Enter
+13:21:39 T E Id3(5) Test2-2 Enter
+13:21:39 T E Id3(5) Test2-3 Enter
+13:21:39 T E Id3(5) Test2-4 Enter
+13:21:39 T E Id3(5) Test3 Enter
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:39 T E Id3(5) Test2-4 Exit elapsed 0.153
+13:21:39 T E Id3(5) Test3 Enter
+13:21:39 T E Id3(5) Test3 Exit elapsed 0.092
+13:21:39 T E Id3(5) Test2-3 Exit elapsed 0.309
+13:21:39 T E Id3(5) Test3 Enter
+13:21:40 T E Id3(5) Test3 Exit elapsed 0.091
+13:21:40 T E Id3(5) Test2-2 Exit elapsed 0.462
+13:21:40 T E Id3(5) Test3 Enter
+13:21:40 T E Id3(5) Test3 Exit elapsed 0.093
+13:21:40 T E Id3(5) Test2-1 Exit elapsed 0.617
+13:21:40 M Id3 Test2-1 Test1 R time 1.571 memory free 110769424 total 126877696
+13:21:40 M Id3 Test2-1 Test1 A time 3.395 memory free 110769424 total 126877696
+13:21:40 T E Id3(5) Test2-6 Exit-forced elapsed 1.535
+13:21:40 T E Id3(5) Test2-5 Exit-forced elapsed 1.537
+13:21:40 T E Id3(5) Test2-4 Exit-forced elapsed 1.539
+13:21:40 T E Id3(5) Test2-3 Exit-forced elapsed 1.539
+13:21:40 T E Id3(5) Test2-2 Exit-forced elapsed 1.541
+13:21:40 T E Id3(5) Test2-1 Exit-forced elapsed 1.543
+13:21:40 T Q Id3(5) Test1 Exit elapsed 1.578
+13:24:43 T E ANON(1) testSerialize Enter
+13:24:43 T E ANON(1) testSerialize Exit elapsed 0.049
+13:24:43 T E ANON(1) Print 2 Enter
+13:24:43 T 01 ANON(1) Print 2 trace 1
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 2 Exit elapsed 0.015
+13:24:43 T E ANON(1) Print 2 Enter
+13:24:43 T 01 ANON(1) Print 2 trace 1
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.000
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.002
+13:24:43 T E ANON(1) Print 1 Enter
+13:24:43 T E ANON(1) Test1 Enter
+13:24:43 T E ANON(1) Test1 Exit-forced elapsed 0.001
+13:24:43 T E ANON(1) Print 1 Exit elapsed 0.001
+13:24:43 T E ANON(1) Print 2 Exit elapsed 0.010
+13:24:43 T Q Id3(5) Test1 Enter
+13:24:43 T Q Id1(2) Test1 Enter
+13:24:43 T Q Id2(3) Test1 Enter
+13:24:43 T Q Id2(4) Test1 Enter
+13:24:43 T E Id2(4) Test2-1 Enter
+13:24:43 T E Id2(3) Test2-1 Enter
+13:24:43 T E Id2(4) Test2-2 Enter
+13:24:43 T E Id2(3) Test2-2 Enter
+13:24:43 T E Id2(4) Test2-3 Enter
+13:24:43 T E Id2(3) Test2-3 Enter
+13:24:43 T E Id2(4) Test2-4 Enter
+13:24:43 T E Id2(3) Test2-4 Enter
+13:24:43 T E Id2(4) Test2-5 Enter
+13:24:43 T E Id2(3) Test2-5 Enter
+13:24:43 T E Id2(4) Test2-6 Enter
+13:24:43 T E Id2(3) Test2-6 Enter
+13:24:43 T E Id1(2) Test2-1 Enter
+13:24:43 T E Id1(2) Test2-2 Enter
+13:24:43 T E Id1(2) Test2-3 Enter
+13:24:43 T E Id1(2) Test2-4 Enter
+13:24:43 T E Id1(2) Test2-5 Enter
+13:24:43 T E Id1(2) Test2-6 Enter
+13:24:43 T E Id3(5) Test2-1 Enter
+13:24:43 T E Id3(5) Test2-2 Enter
+13:24:43 T E Id3(5) Test2-3 Enter
+13:24:43 T E Id3(5) Test2-4 Enter
+13:24:43 T E Id3(5) Test2-5 Enter
+13:24:43 T E Id3(5) Test2-6 Enter
+13:24:43 T E Id2(3) Test3 Enter
+13:24:43 T E Id2(4) Test3 Enter
+13:24:43 T E Id1(2) Test3 Enter
+13:24:43 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:43 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:43 T E Id2(4) Test3 Enter
+13:24:43 T E Id2(3) Test3 Enter
+13:24:43 T E Id3(5) Test3 Enter
+13:24:43 T E Id2(4) Test3 Exit elapsed 0.033
+13:24:43 T E Id2(3) Test3 Exit elapsed 0.033
+13:24:43 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:43 T E Id2(4) Test3 Enter
+13:24:43 T E Id2(3) Test3 Enter
+13:24:43 T E Id1(2) Test3 Enter
+13:24:43 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:43 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:43 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:43 T E Id2(4) Test3 Enter
+13:24:43 T E Id2(3) Test3 Enter
+13:24:43 T E Id2(4) Test3 Exit elapsed 0.030
+13:24:43 T E Id2(3) Test3 Exit elapsed 0.030
+13:24:43 T E Id1(2) Test3 Exit elapsed 0.060
+13:24:43 T E Id2(4) Test3 Enter
+13:24:43 T E Id3(5) Test3 Enter
+13:24:43 T E Id2(3) Test3 Enter
+13:24:43 T E Id1(2) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(4) Test2-1 Enter
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:44 T E Id2(4) Test2-2 Enter
+13:24:44 T E Id2(3) Test2-1 Enter
+13:24:44 T E Id2(4) Test2-3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:44 T E Id2(3) Test2-2 Enter
+13:24:44 T E Id2(4) Test2-4 Enter
+13:24:44 T E Id2(3) Test2-3 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:44 T E Id2(3) Test2-4 Enter
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.033
+13:24:44 T E Id2(4) Test2-4 Exit elapsed 0.056
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(3) Test2-4 Exit elapsed 0.055
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.033
+13:24:44 T E Id2(4) Test2-3 Exit elapsed 0.112
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(3) Test2-3 Exit elapsed 0.111
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.030
+13:24:44 T E Id2(4) Test2-2 Exit elapsed 0.166
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:44 T E Id2(3) Test2-2 Exit elapsed 0.166
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:44 T E Id2(4) Test2-1 Exit elapsed 0.220
+13:24:44 M Id2 Test2-1 Test1 R time 0.550 memory free 116136904 total 126877696
+13:24:44 M Id2 Test2-1 Test1 A time 0.554 memory free 116136904 total 126877696
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.032
+13:24:44 T E Id2(4) Test2-6 Exit-forced elapsed 0.538
+13:24:44 T E Id2(3) Test2-1 Exit elapsed 0.223
+13:24:44 T E Id2(4) Test2-5 Exit-forced elapsed 0.540
+13:24:44 M Id2 Test2-1 Test1 R time 0.555 memory free 116136904 total 126877696
+13:24:44 T E Id2(4) Test2-4 Exit-forced elapsed 0.542
+13:24:44 M Id2 Test2-1 Test1 A time 0.557 memory free 116136904 total 126877696
+13:24:44 T E Id2(4) Test2-3 Exit-forced elapsed 0.543
+13:24:44 T E Id2(3) Test2-6 Exit-forced elapsed 0.542
+13:24:44 T E Id2(4) Test2-2 Exit-forced elapsed 0.544
+13:24:44 T E Id2(3) Test2-5 Exit-forced elapsed 0.543
+13:24:44 T E Id2(4) Test2-1 Exit-forced elapsed 0.546
+13:24:44 T E Id2(3) Test2-4 Exit-forced elapsed 0.544
+13:24:44 T Q Id2(4) Test1 Exit elapsed 0.561
+13:24:44 T E Id2(3) Test2-3 Exit-forced elapsed 0.546
+13:24:44 T E Id2(3) Test2-2 Exit-forced elapsed 0.547
+13:24:44 T E Id2(3) Test2-1 Exit-forced elapsed 0.549
+13:24:44 T Q Id2(3) Test1 Exit elapsed 0.565
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:44 T E Id1(2) Test2-1 Enter
+13:24:44 T E Id1(2) Test2-2 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:44 T E Id1(2) Test2-3 Enter
+13:24:44 T E Id1(2) Test2-4 Enter
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:44 T E Id1(2) Test2-4 Exit elapsed 0.105
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:44 T E Id1(2) Test2-3 Exit elapsed 0.209
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:44 T E Id3(5) Test2-1 Enter
+13:24:44 T E Id3(5) Test2-2 Enter
+13:24:44 T E Id3(5) Test2-3 Enter
+13:24:44 T E Id3(5) Test2-4 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:44 T E Id1(2) Test2-2 Exit elapsed 0.312
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id1(2) Test3 Exit elapsed 0.060
+13:24:44 T E Id1(2) Test2-1 Exit elapsed 0.415
+13:24:44 M Id1 Test2-1 Test1 R time 1.058 memory free 115465816 total 126877696
+13:24:44 M Id1 Test2-1 Test1 A time 1.060 memory free 115465816 total 126877696
+13:24:44 T E Id1(2) Test2-6 Exit-forced elapsed 1.036
+13:24:44 T E Id1(2) Test2-5 Exit-forced elapsed 1.037
+13:24:44 T E Id1(2) Test2-4 Exit-forced elapsed 1.037
+13:24:44 T Q Id2(4) Test1 Enter
+13:24:44 T E Id1(2) Test2-3 Exit-forced elapsed 1.039
+13:24:44 T E Id1(2) Test2-2 Exit-forced elapsed 1.040
+13:24:44 T E Id1(2) Test2-1 Exit-forced elapsed 1.041
+13:24:44 T Q Id1(2) Test1 Exit elapsed 1.064
+13:24:44 T Q Id2(3) Test1 Enter
+13:24:44 T E Id2(4) Test2-1 Enter
+13:24:44 T E Id2(4) Test2-2 Enter
+13:24:44 T E Id2(4) Test2-3 Enter
+13:24:44 T E Id2(4) Test2-4 Enter
+13:24:44 T E Id2(4) Test2-5 Enter
+13:24:44 T E Id2(4) Test2-6 Enter
+13:24:44 T E Id2(3) Test2-1 Enter
+13:24:44 T E Id2(3) Test2-2 Enter
+13:24:44 T E Id2(3) Test2-3 Enter
+13:24:44 T E Id2(3) Test2-4 Enter
+13:24:44 T E Id2(3) Test2-5 Enter
+13:24:44 T E Id2(3) Test2-6 Enter
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.090
+13:24:44 T E Id3(5) Test2-4 Exit elapsed 0.152
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.033
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.030
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T Q Id1(2) Test1 Enter
+13:24:44 T E Id3(5) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:44 T E Id1(2) Test2-1 Enter
+13:24:44 T E Id1(2) Test2-2 Enter
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.030
+13:24:44 T E Id1(2) Test2-3 Enter
+13:24:44 T E Id1(2) Test2-4 Enter
+13:24:44 T E Id1(2) Test2-5 Enter
+13:24:44 T E Id1(2) Test2-6 Enter
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:44 T E Id1(2) Test3 Enter
+13:24:44 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:44 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:44 T E Id3(5) Test3 Exit elapsed 0.090
+13:24:44 T E Id3(5) Test2-3 Exit elapsed 0.306
+13:24:44 T E Id2(4) Test3 Enter
+13:24:44 T E Id2(3) Test3 Enter
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id3(5) Test3 Enter
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.032
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.032
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(4) Test2-1 Enter
+13:24:45 T E Id2(4) Test2-2 Enter
+13:24:45 T E Id2(4) Test2-3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id2(4) Test2-4 Enter
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(3) Test2-1 Enter
+13:24:45 T E Id2(3) Test2-2 Enter
+13:24:45 T E Id2(3) Test2-3 Enter
+13:24:45 T E Id2(3) Test2-4 Enter
+13:24:45 T E Id3(5) Test3 Exit elapsed 0.094
+13:24:45 T E Id3(5) Test2-2 Exit elapsed 0.461
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.032
+13:24:45 T E Id2(4) Test2-4 Exit elapsed 0.054
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(3) Test2-4 Exit elapsed 0.054
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id3(5) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.030
+13:24:45 T E Id2(4) Test2-3 Exit elapsed 0.107
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(3) Test2-3 Exit elapsed 0.111
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.032
+13:24:45 T E Id2(4) Test2-2 Exit elapsed 0.161
+13:24:45 T E Id3(5) Test3 Exit elapsed 0.090
+13:24:45 T E Id3(5) Test2-1 Exit elapsed 0.615
+13:24:45 M Id3 Test2-1 Test1 R time 1.566 memory free 112781408 total 126877696
+13:24:45 M Id3 Test2-1 Test1 A time 1.568 memory free 112781408 total 126877696
+13:24:45 T E Id3(5) Test2-6 Exit-forced elapsed 1.533
+13:24:45 T E Id3(5) Test2-5 Exit-forced elapsed 1.534
+13:24:45 T E Id3(5) Test2-4 Exit-forced elapsed 1.534
+13:24:45 T E Id3(5) Test2-3 Exit-forced elapsed 1.535
+13:24:45 T E Id3(5) Test2-2 Exit-forced elapsed 1.535
+13:24:45 T E Id3(5) Test2-1 Exit-forced elapsed 1.535
+13:24:45 T Q Id3(5) Test1 Exit elapsed 1.570
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.033
+13:24:45 T E Id2(3) Test2-2 Exit elapsed 0.167
+13:24:45 T E Id2(4) Test3 Enter
+13:24:45 T E Id2(3) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.063
+13:24:45 T E Id2(4) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(4) Test2-1 Exit elapsed 0.214
+13:24:45 M Id2 Test2-1 Test1 R time 0.547 memory free 112781408 total 126877696
+13:24:45 M Id2 Test2-1 Test1 A time 1.612 memory free 112781408 total 126877696
+13:24:45 T E Id2(4) Test2-6 Exit-forced elapsed 0.531
+13:24:45 T E Id2(4) Test2-5 Exit-forced elapsed 0.533
+13:24:45 T E Id2(4) Test2-4 Exit-forced elapsed 0.534
+13:24:45 T E Id2(4) Test2-3 Exit-forced elapsed 0.536
+13:24:45 T E Id2(4) Test2-2 Exit-forced elapsed 0.537
+13:24:45 T E Id2(4) Test2-1 Exit-forced elapsed 0.539
+13:24:45 T Q Id2(4) Test1 Exit elapsed 0.552
+13:24:45 T E Id2(3) Test3 Exit elapsed 0.031
+13:24:45 T E Id2(3) Test2-1 Exit elapsed 0.220
+13:24:45 M Id2 Test2-1 Test1 R time 0.555 memory free 112781408 total 126877696
+13:24:45 M Id2 Test2-1 Test1 A time 1.623 memory free 112781408 total 126877696
+13:24:45 T E Id2(3) Test2-6 Exit-forced elapsed 0.537
+13:24:45 T E Id2(3) Test2-5 Exit-forced elapsed 0.538
+13:24:45 T E Id2(3) Test2-4 Exit-forced elapsed 0.540
+13:24:45 T E Id2(3) Test2-3 Exit-forced elapsed 0.542
+13:24:45 T E Id2(3) Test2-2 Exit-forced elapsed 0.544
+13:24:45 T E Id2(3) Test2-1 Exit-forced elapsed 0.546
+13:24:45 T Q Id2(3) Test1 Exit elapsed 0.560
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id1(2) Test2-1 Enter
+13:24:45 T E Id1(2) Test2-2 Enter
+13:24:45 T E Id1(2) Test2-3 Enter
+13:24:45 T E Id1(2) Test2-4 Enter
+13:24:45 T Q Id3(5) Test1 Enter
+13:24:45 T E Id3(5) Test2-1 Enter
+13:24:45 T E Id3(5) Test2-2 Enter
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id3(5) Test2-3 Enter
+13:24:45 T E Id3(5) Test2-4 Enter
+13:24:45 T E Id3(5) Test2-5 Enter
+13:24:45 T E Id3(5) Test2-6 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.062
+13:24:45 T E Id1(2) Test2-4 Exit elapsed 0.104
+13:24:45 T E Id3(5) Test3 Enter
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.060
+13:24:45 T E Id1(2) Test2-3 Exit elapsed 0.206
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id3(5) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id1(2) Test2-2 Exit elapsed 0.310
+13:24:45 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:45 T E Id1(2) Test3 Enter
+13:24:45 T E Id1(2) Test3 Exit elapsed 0.061
+13:24:45 T E Id1(2) Test2-1 Exit elapsed 0.414
+13:24:45 T E Id3(5) Test3 Enter
+13:24:45 M Id1 Test2-1 Test1 R time 1.061 memory free 112110320 total 126877696
+13:24:45 M Id1 Test2-1 Test1 A time 2.228 memory free 112110320 total 126877696
+13:24:45 T E Id1(2) Test2-6 Exit-forced elapsed 1.034
+13:24:45 T E Id1(2) Test2-5 Exit-forced elapsed 1.036
+13:24:45 T E Id1(2) Test2-4 Exit-forced elapsed 1.037
+13:24:45 T E Id1(2) Test2-3 Exit-forced elapsed 1.039
+13:24:45 T E Id1(2) Test2-2 Exit-forced elapsed 1.040
+13:24:45 T E Id1(2) Test2-1 Exit-forced elapsed 1.042
+13:24:45 T Q Id1(2) Test1 Exit elapsed 1.065
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.092
+13:24:46 T E Id3(5) Test2-1 Enter
+13:24:46 T E Id3(5) Test2-2 Enter
+13:24:46 T E Id3(5) Test2-3 Enter
+13:24:46 T E Id3(5) Test2-4 Enter
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:46 T E Id3(5) Test2-4 Exit elapsed 0.164
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:46 T E Id3(5) Test2-3 Exit elapsed 0.319
+13:24:46 T E Id3(5) Test3 Enter
+13:24:46 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:46 T E Id3(5) Test2-2 Exit elapsed 0.472
+13:24:47 T E Id3(5) Test3 Enter
+13:24:47 T E Id3(5) Test3 Exit elapsed 0.091
+13:24:47 T E Id3(5) Test2-1 Exit elapsed 0.627
+13:24:47 M Id3 Test2-1 Test1 R time 1.582 memory free 110767768 total 126877696
+13:24:47 M Id3 Test2-1 Test1 A time 3.405 memory free 110767768 total 126877696
+13:24:47 T E Id3(5) Test2-6 Exit-forced elapsed 1.546
+13:24:47 T E Id3(5) Test2-5 Exit-forced elapsed 1.548
+13:24:47 T E Id3(5) Test2-4 Exit-forced elapsed 1.549
+13:24:47 T E Id3(5) Test2-3 Exit-forced elapsed 1.551
+13:24:47 T E Id3(5) Test2-2 Exit-forced elapsed 1.552
+13:24:47 T E Id3(5) Test2-1 Exit-forced elapsed 1.553
+13:24:47 T Q Id3(5) Test1 Exit elapsed 1.588
