@@ -2,16 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/Test.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/Test1.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/Reporting.cfg</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/reporting/Report.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/Parameters.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/reporting/Trace.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/reporting/Process.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/reporting/Thread.java</file>
-            <file>file:/C:/MyFiles/Java/Reporting/src/org/cbc/application/Token.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
