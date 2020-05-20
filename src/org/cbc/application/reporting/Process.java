@@ -501,7 +501,17 @@ public class Process implements Serializable {
     public Stream getStream(String name) {
         return streams.get(name);
     }
-
+    public Stream.Summary getStreamSummary(String name) {
+        return getStream(name).getSummary() ;
+    }
+    public HashMap<String, Stream.Summary> getStreamSummaries() {
+        HashMap<String, Stream.Summary> summaries = new HashMap<>();
+        
+        streams.entrySet().forEach((entry) -> {             
+            summaries.put(entry.getKey(), entry.getValue().getSummary());
+        }); 
+        return summaries;
+    }
     /**
      * @return the timestamp of the last
      */
@@ -509,6 +519,13 @@ public class Process implements Serializable {
         return updated;
     }
     public class Stream {
+
+        /**
+         * @return the entryCount
+         */
+        public int getEntryCount() {
+            return entryCount;
+        }
         private String      name               = "";
         private String      fileTemplate        = "";
         private String      reportPrefix        = "";
@@ -522,11 +539,31 @@ public class Process implements Serializable {
         private int         entryCount          = 0;
         private boolean     allowReenter        = false;
 
+        public class Summary {            
+            public String getName() {
+                return name;
+            }
+            public boolean getAllowReenter() {
+                return allowReenter;
+            }
+            public String getFileName() {
+                return fileName;
+            }
+            public String getFullFilename() {
+                return file == null? null : file.getFilename();
+            }
+            public String getFileTemplate() {
+                return fileTemplate;
+            }
+            public String getReportPrefix() {
+                return reportPrefix;
+            }
+        }
         Stream(String name) {
             this.name    = name;
             fileTemplate = "";
             reportPrefix = "";
-            refresh       = new Interval(1000 * fileRefreshRate, true);
+            refresh      = new Interval(1000 * fileRefreshRate, true);
         }
 
         public void setInterceptor(Interceptor interceptor, String openInfo, boolean override) {
@@ -585,7 +622,7 @@ public class Process implements Serializable {
             String     formattedPrefix;
             String     formattedText;
             boolean    toFile              = (interceptor == null || interceptorOverride);
-            String     fName               = fileName;
+            String     fName               = getFileName();
             boolean    duplicate           = false;
             boolean    check               = refresh.lapsed();
             
@@ -618,10 +655,10 @@ public class Process implements Serializable {
                 duplicate = setDuplicate(name + duplicateKey, formattedText);
             }
 
-            if (interceptor != null && (allowReenter || entryCount == 0)) {
+            if (interceptor != null && (allowReenter || getEntryCount() == 0)) {
                 try {
                     entryCount          += 1;
-                    interceptorActioned = interceptor.output(control, entryCount != 1, text, duplicateKey);
+                    interceptorActioned = interceptor.output(control, getEntryCount() != 1, text, duplicateKey);
                 } catch (InterceptorException e) {
                     System.err.println("On stream " + name + " Interceptor error " + e.toString());
                     toFile = true;
@@ -653,6 +690,16 @@ public class Process implements Serializable {
                 return;
             }
             file.close();
+        }
+        public Summary getSummary() {
+            return new Summary();
+        }
+
+        /**
+         * @return the fileName
+         */
+        public String getFileName() {
+            return fileName;
         }
     }
 }
