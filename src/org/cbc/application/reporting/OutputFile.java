@@ -50,8 +50,10 @@ public class OutputFile implements Serializable {
     }
 
     public static OutputFile open(String path, String file, boolean share) throws IOException {
-        
-        return open(new File(path, file), share);
+        if (file.charAt(1) == ':')
+            return open(file, share);
+        else
+            return open(new File(path, file), share);
     }
 
     public String getFilename() {
