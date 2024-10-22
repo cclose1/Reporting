@@ -52,3 +52,6 @@ Write via file3
 Write via file1
 Write via file2
 Write via file3
+Write via file1
+Write via file2
+Write via file3
