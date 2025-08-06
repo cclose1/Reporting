@@ -78,7 +78,7 @@ public class BaseException extends RuntimeException implements Serializable {
         addText(Text, "Type ", type);
         
         if (number != -1) {
-            addText(Text, "Number ", new Integer(number).toString());
+            addText(Text, "Number ", Integer.toString(number));
         }
         addText(Text, "-", fullText);
         return Text.toString();
